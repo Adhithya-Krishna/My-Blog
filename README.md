@@ -1,5 +1,7 @@
 # Blogging Website
 ## This is a simple blogging website built with Node.js and Express.js, where users can read and create blog posts. The website allows users to view the home page with a collection of blog posts, read individual blog posts, and navigate to the about and contact pages. Users can also compose their own blog posts and submit them. It is built using EJS as the templating engine and MongoDB as the database. 
+[Click here]([https://example.com](https://my-blog-4awg.onrender.com) to visit the website.
+
 
 The application provides the following features:
 
@@ -35,6 +37,5 @@ The application utilizes the following technologies:
 - /compose: The compose page for creating new blog posts.
 - /posts/:blogID: The individual blog post page that shows the full content of a selected blog post.
   
-  
-  
-  
+ ## Contributing
+Contributions to the project are welcome. If you find any issues or want to add new features, please submit a pull request.
