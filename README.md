@@ -1,5 +1,6 @@
 # Blogging Website
-## This is a blogging website built with Node.js, Express.js, EJS, and MongoDB. It provides a simple and intuitive interface for users to read and create blog posts. The website allows users to browse the home page to explore a collection of blog posts, read individual posts, and navigate to the About and Contact pages. Users can also compose their blog posts and submit them for publishing. [Click here](https://my-blog-4awg.onrender.com) to visit the website.
+## This is a blogging website built with Node.js, Express.js, EJS, and MongoDB. It provides a simple and intuitive interface for users to read and create blog posts. The website allows users to browse the home page to explore a collection of blog posts, read individual posts, and navigate to the About and Contact pages. Users can also compose their blog posts and submit them for publishing.
+### [Click here](https://my-blog-4awg.onrender.com) to visit the website.
 
 
 
